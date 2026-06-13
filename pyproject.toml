@@ -1,0 +1,44 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "contract-family-organizer"
+version = "0.1.0"
+description = "Organize legal contracts into contract families using Claude AI — a Claude Code skill"
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.11"
+keywords = ["contracts", "legal", "legal-ops", "claude", "ai", "document-organization"]
+classifiers = [
+  "Development Status :: 3 - Alpha",
+  "Intended Audience :: Legal Industry",
+  "License :: OSI Approved :: MIT License",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+]
+
+dependencies = [
+  "pypdf>=4.0",
+  "python-docx>=1.1",
+  "pdf2image>=1.17",
+  "pytesseract>=0.3",
+  "Pillow>=10.0",
+  "rapidfuzz>=3.0",
+  "click>=8.1",
+  "rich>=13.0",
+  "anthropic>=0.30",
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=8.0",
+  "pytest-cov",
+]
+
+[project.urls]
+Repository = "https://github.com/nirnaypatel/contract-family-organizer-"
+Issues = "https://github.com/nirnaypatel/contract-family-organizer-/issues"
+
+[tool.hatch.build.targets.wheel]
+packages = ["organizer"]
