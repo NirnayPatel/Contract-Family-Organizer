@@ -1,0 +1,138 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Contract Family Organizer">
+  <title>Contract Family Organizer</title>
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="rootGlow" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#388BFD" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#388BFD" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="320" fill="url(#bgGrad)"/>
+
+  <!-- Outer border -->
+  <rect x="1" y="1" width="1198" height="318" rx="12" fill="none" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Subtle dot grid (left panel background texture) -->
+  <g fill="#21262d" opacity="0.6">
+    <circle cx="50" cy="20" r="1"/><circle cx="80" cy="20" r="1"/><circle cx="110" cy="20" r="1"/><circle cx="140" cy="20" r="1"/><circle cx="170" cy="20" r="1"/><circle cx="200" cy="20" r="1"/><circle cx="230" cy="20" r="1"/><circle cx="260" cy="20" r="1"/><circle cx="290" cy="20" r="1"/><circle cx="320" cy="20" r="1"/><circle cx="350" cy="20" r="1"/><circle cx="380" cy="20" r="1"/>
+    <circle cx="50" cy="50" r="1"/><circle cx="80" cy="50" r="1"/><circle cx="110" cy="50" r="1"/><circle cx="140" cy="50" r="1"/><circle cx="170" cy="50" r="1"/><circle cx="200" cy="50" r="1"/><circle cx="230" cy="50" r="1"/><circle cx="260" cy="50" r="1"/><circle cx="290" cy="50" r="1"/><circle cx="320" cy="50" r="1"/><circle cx="350" cy="50" r="1"/><circle cx="380" cy="50" r="1"/>
+    <circle cx="50" cy="80" r="1"/><circle cx="80" cy="80" r="1"/><circle cx="110" cy="80" r="1"/><circle cx="140" cy="80" r="1"/><circle cx="170" cy="80" r="1"/><circle cx="200" cy="80" r="1"/><circle cx="230" cy="80" r="1"/><circle cx="260" cy="80" r="1"/><circle cx="290" cy="80" r="1"/><circle cx="320" cy="80" r="1"/><circle cx="350" cy="80" r="1"/><circle cx="380" cy="80" r="1"/>
+    <circle cx="50" cy="110" r="1"/><circle cx="80" cy="110" r="1"/><circle cx="110" cy="110" r="1"/><circle cx="140" cy="110" r="1"/><circle cx="170" cy="110" r="1"/><circle cx="200" cy="110" r="1"/><circle cx="230" cy="110" r="1"/><circle cx="260" cy="110" r="1"/><circle cx="290" cy="110" r="1"/><circle cx="320" cy="110" r="1"/><circle cx="350" cy="110" r="1"/><circle cx="380" cy="110" r="1"/>
+    <circle cx="50" cy="140" r="1"/><circle cx="80" cy="140" r="1"/><circle cx="110" cy="140" r="1"/><circle cx="140" cy="140" r="1"/><circle cx="170" cy="140" r="1"/><circle cx="200" cy="140" r="1"/><circle cx="230" cy="140" r="1"/><circle cx="260" cy="140" r="1"/><circle cx="290" cy="140" r="1"/><circle cx="320" cy="140" r="1"/><circle cx="350" cy="140" r="1"/><circle cx="380" cy="140" r="1"/>
+    <circle cx="50" cy="170" r="1"/><circle cx="80" cy="170" r="1"/><circle cx="110" cy="170" r="1"/><circle cx="140" cy="170" r="1"/><circle cx="170" cy="170" r="1"/><circle cx="200" cy="170" r="1"/><circle cx="230" cy="170" r="1"/><circle cx="260" cy="170" r="1"/><circle cx="290" cy="170" r="1"/><circle cx="320" cy="170" r="1"/><circle cx="350" cy="170" r="1"/><circle cx="380" cy="170" r="1"/>
+    <circle cx="50" cy="200" r="1"/><circle cx="80" cy="200" r="1"/><circle cx="110" cy="200" r="1"/><circle cx="140" cy="200" r="1"/><circle cx="170" cy="200" r="1"/><circle cx="200" cy="200" r="1"/><circle cx="230" cy="200" r="1"/><circle cx="260" cy="200" r="1"/><circle cx="290" cy="200" r="1"/><circle cx="320" cy="200" r="1"/><circle cx="350" cy="200" r="1"/><circle cx="380" cy="200" r="1"/>
+    <circle cx="50" cy="230" r="1"/><circle cx="80" cy="230" r="1"/><circle cx="110" cy="230" r="1"/><circle cx="140" cy="230" r="1"/><circle cx="170" cy="230" r="1"/><circle cx="200" cy="230" r="1"/><circle cx="230" cy="230" r="1"/><circle cx="260" cy="230" r="1"/><circle cx="290" cy="230" r="1"/><circle cx="320" cy="230" r="1"/><circle cx="350" cy="230" r="1"/><circle cx="380" cy="230" r="1"/>
+    <circle cx="50" cy="260" r="1"/><circle cx="80" cy="260" r="1"/><circle cx="110" cy="260" r="1"/><circle cx="140" cy="260" r="1"/><circle cx="170" cy="260" r="1"/><circle cx="200" cy="260" r="1"/><circle cx="230" cy="260" r="1"/><circle cx="260" cy="260" r="1"/><circle cx="290" cy="260" r="1"/><circle cx="320" cy="260" r="1"/><circle cx="350" cy="260" r="1"/><circle cx="380" cy="260" r="1"/>
+    <circle cx="50" cy="290" r="1"/><circle cx="80" cy="290" r="1"/><circle cx="110" cy="290" r="1"/><circle cx="140" cy="290" r="1"/><circle cx="170" cy="290" r="1"/><circle cx="200" cy="290" r="1"/><circle cx="230" cy="290" r="1"/><circle cx="260" cy="290" r="1"/><circle cx="290" cy="290" r="1"/><circle cx="320" cy="290" r="1"/><circle cx="350" cy="290" r="1"/><circle cx="380" cy="290" r="1"/>
+  </g>
+
+  <!-- Panel divider -->
+  <line x1="408" y1="20" x2="408" y2="300" stroke="#21262d" stroke-width="1"/>
+
+  <!-- ══════════════════════════════════════ -->
+  <!-- LEFT PANEL: Contract family tree       -->
+  <!-- ══════════════════════════════════════ -->
+
+  <!-- Panel label -->
+  <text x="207" y="24" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="9" fill="#484f58" letter-spacing="2">CONTRACT FAMILY TREE</text>
+
+  <!-- Root card glow halo -->
+  <rect x="162" y="32" width="90" height="88" rx="8" fill="url(#rootGlow)"/>
+
+  <!-- ROOT CARD — MSA -->
+  <rect x="165" y="35" width="84" height="82" rx="6" fill="#161b22" stroke="#388BFD" stroke-width="1.5"/>
+  <!-- Blue top strip -->
+  <rect x="165" y="35" width="84" height="11" rx="6" fill="#388BFD"/>
+  <rect x="165" y="41" width="84" height="5" fill="#388BFD"/>
+  <!-- Lines on doc (visual) -->
+  <line x1="177" y1="60" x2="237" y2="60" stroke="#30363d" stroke-width="1.5"/>
+  <line x1="177" y1="69" x2="237" y2="69" stroke="#30363d" stroke-width="1.5"/>
+  <line x1="177" y1="78" x2="220" y2="78" stroke="#30363d" stroke-width="1.5"/>
+  <!-- Label -->
+  <text x="207" y="58" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="10" font-weight="700" fill="#388BFD">MSA</text>
+  <!-- Confidence badge -->
+  <rect x="180" y="88" width="54" height="13" rx="4" fill="#388BFD" opacity="0.18"/>
+  <text x="207" y="98" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="8.5" fill="#58a6ff">0.95 confidence</text>
+
+  <!-- Root → branch connector -->
+  <line x1="207" y1="117" x2="207" y2="148" stroke="#30363d" stroke-width="1.5"/>
+  <!-- Horizontal branch -->
+  <path d="M 68 148 L 346 148" stroke="#30363d" stroke-width="1.5"/>
+  <!-- Branch down to each child -->
+  <line x1="68" y1="148" x2="68" y2="165" stroke="#30363d" stroke-width="1.5"/>
+  <line x1="207" y1="148" x2="207" y2="165" stroke="#30363d" stroke-width="1.5"/>
+  <line x1="346" y1="148" x2="346" y2="165" stroke="#30363d" stroke-width="1.5"/>
+
+  <!-- CHILD CARD 1 — Amendment (orange) -->
+  <rect x="28" y="165" width="80" height="75" rx="5" fill="#161b22" stroke="#F0883E" stroke-width="1"/>
+  <rect x="28" y="165" width="80" height="10" rx="5" fill="#F0883E"/>
+  <rect x="28" y="170" width="80" height="5" fill="#F0883E"/>
+  <line x1="38" y1="188" x2="98" y2="188" stroke="#21262d" stroke-width="1.5"/>
+  <line x1="38" y1="196" x2="88" y2="196" stroke="#21262d" stroke-width="1.5"/>
+  <text x="68" y="186" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="9.5" font-weight="600" fill="#F0883E">Amendment</text>
+  <rect x="41" y="205" width="54" height="11" rx="3" fill="#F0883E" opacity="0.15"/>
+  <text x="68" y="214" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="8" fill="#F0883E">modification</text>
+
+  <!-- CHILD CARD 2 — Schedule (green) -->
+  <rect x="167" y="165" width="80" height="75" rx="5" fill="#161b22" stroke="#3FB950" stroke-width="1"/>
+  <rect x="167" y="165" width="80" height="10" rx="5" fill="#3FB950"/>
+  <rect x="167" y="170" width="80" height="5" fill="#3FB950"/>
+  <line x1="177" y1="188" x2="237" y2="188" stroke="#21262d" stroke-width="1.5"/>
+  <line x1="177" y1="196" x2="227" y2="196" stroke="#21262d" stroke-width="1.5"/>
+  <text x="207" y="186" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="9.5" font-weight="600" fill="#3FB950">Schedule</text>
+  <rect x="180" y="205" width="54" height="11" rx="3" fill="#3FB950" opacity="0.15"/>
+  <text x="207" y="214" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="8" fill="#3FB950">exhibit</text>
+
+  <!-- CHILD CARD 3 — SOW (purple) -->
+  <rect x="306" y="165" width="80" height="75" rx="5" fill="#161b22" stroke="#A371F7" stroke-width="1"/>
+  <rect x="306" y="165" width="80" height="10" rx="5" fill="#A371F7"/>
+  <rect x="306" y="170" width="80" height="5" fill="#A371F7"/>
+  <line x1="316" y1="188" x2="376" y2="188" stroke="#21262d" stroke-width="1.5"/>
+  <line x1="316" y1="196" x2="366" y2="196" stroke="#21262d" stroke-width="1.5"/>
+  <text x="346" y="186" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="9.5" font-weight="600" fill="#A371F7">SOW</text>
+  <rect x="319" y="205" width="54" height="11" rx="3" fill="#A371F7" opacity="0.15"/>
+  <text x="346" y="214" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="8" fill="#A371F7">execution</text>
+
+  <!-- Bottom label -->
+  <text x="207" y="268" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="8.5" fill="#484f58">counterparties · clauses · lifecycle · flags</text>
+
+  <!-- ══════════════════════════════════════════ -->
+  <!-- RIGHT PANEL: Title and feature highlights  -->
+  <!-- ══════════════════════════════════════════ -->
+
+  <!-- "Claude Code Skill" pill badge -->
+  <rect x="432" y="44" width="130" height="22" rx="11" fill="#388BFD" opacity="0.12"/>
+  <rect x="432" y="44" width="130" height="22" rx="11" fill="none" stroke="#388BFD" stroke-opacity="0.5" stroke-width="0.75"/>
+  <circle cx="450" cy="55" r="4.5" fill="#388BFD"/>
+  <circle cx="450" cy="55" r="2.5" fill="#0d1117"/>
+  <text x="460" y="59" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="11" font-weight="500" fill="#58a6ff"> Claude Code Skill</text>
+
+  <!-- Title line 1 -->
+  <text x="432" y="128" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="48" font-weight="800" fill="#e6edf3" letter-spacing="-1">Contract Family</text>
+
+  <!-- Title line 2 (accent color) -->
+  <text x="432" y="183" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="48" font-weight="800" fill="#388BFD" letter-spacing="-1">Organizer</text>
+
+  <!-- Tagline -->
+  <text x="432" y="213" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="15.5" fill="#8b949e">Organize any contract repository into structured families — powered by AI</text>
+
+  <!-- Thin divider -->
+  <line x1="432" y1="230" x2="1175" y2="230" stroke="#21262d" stroke-width="1"/>
+
+  <!-- Feature row 1 — green dot -->
+  <circle cx="445" cy="250" r="3.5" fill="#3FB950"/>
+  <text x="457" y="255" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" fill="#c9d1d9">30+ contract types  ·  hierarchy detection  ·  counterparty extraction</text>
+
+  <!-- Feature row 2 — orange dot -->
+  <circle cx="445" cy="273" r="3.5" fill="#F0883E"/>
+  <text x="457" y="278" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" fill="#c9d1d9">legal-ops risk flags  ·  lifecycle status  ·  key clause identification</text>
+
+  <!-- Feature row 3 — purple dot -->
+  <circle cx="445" cy="296" r="3.5" fill="#A371F7"/>
+  <text x="457" y="301" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" fill="#c9d1d9">PDF · DOCX · TXT  ·  confidence scores  ·  progressive Q&amp;A workflow</text>
+</svg>
